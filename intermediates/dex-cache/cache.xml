@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adrielcafe/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-15.0_7c64591d3c54583051fea98d0a70275aeb574e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1b04a2268161550907db9b01be2eb9f2cacacd3">
+        <dex dex="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6213099aafdd0a0bd28a0486ab60db6d124366cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c91cb0f2665b9e18f3aeb8a1b34bc616efd7d917">
+        <dex dex="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39b95f0dd37da9af7d57acdf35459fbf8d3f315b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="81241ff7078ef14f42ea2a8995fa09c096256e6b">
+        <dex dex="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/transforms/dex/debug/folders/1000/10/javawriter-2.5.0_a3f874f49e4f2125d5b23c2c4a6cf5db5d98275c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adrielcafe/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.2/daf5472b0df6dabaceb6ad755b3812535863965a/butterknife-5.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-5.1.2_d472df8976fd6180ed5d1423941b096eb7f8b20d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adrielcafe/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-1.2.2_a6b26d2014246c5ceda0abf11b6b560cc4e048de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adrielcafe/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger-compiler/1.2.2/fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57/dagger-compiler-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57">
+        <dex dex="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-compiler-1.2.2_4fc61297dffaf5032db2030053cc88bc8643a8c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adrielcafe/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/adrielcafe/Android/workspace/ffmpeg-android-java/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_9b22d17ea493491b6061f903085c1cecdef10928/classes.dex" />
+    </item>
+
+</items>

@@ -23,7 +23,7 @@ public class FFmpeg implements FFmpegInterface {
 
     private FFmpeg(Context context) {
         this.context = context.getApplicationContext();
-        Log.setDEBUG(Util.isDebug(this.context));
+//        Log.setDEBUG(Util.isDebug(this.context));
     }
 
     public static FFmpeg getInstance(Context context) {
